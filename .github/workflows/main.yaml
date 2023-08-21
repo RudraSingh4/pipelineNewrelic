@@ -9,10 +9,10 @@ on:
         options:
           - 'apply'
           
-# env:
+env:
 #   BUCKET: sachin-bkt
 #   TFSTATE_FILE: terraform.tfstate
-#   aws_region: ap-south-1
+  aws_region: ap-south-1
 
 
         
