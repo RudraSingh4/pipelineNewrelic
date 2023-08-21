@@ -8,6 +8,8 @@ on:
         default: 'apply'
         options:
           - 'apply'
+          - 'destroy'
+
           
 env:
 #   BUCKET: sachin-bkt
